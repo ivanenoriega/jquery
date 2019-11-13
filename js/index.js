@@ -1,5 +1,3 @@
 $(document).ready(function() {
-  // Ejercicio 1
-  // Ejercicio 2
-  // Ejercicio 3
+  // Ejericio 1: Selecciona a todos los alumnos y aagregales la clase
 });
